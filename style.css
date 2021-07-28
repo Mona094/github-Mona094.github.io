@@ -5,9 +5,9 @@ div {
 }
 
 h1 {
-  background: red;
+  background: rgb(102, 255, 0);
   margin: 20px;
-  border: 2px solid white;
+  border: 2px solid rgb(92, 216, 210);
   text-align: center;
   padding: 40px;
   width: 400px;
@@ -17,8 +17,8 @@ h1 {
 }
 
 h3 {
-  color: #bc1288;
-  background: lightblue;
+  color: #8cf7ff;
+  background: rgb(128, 127, 156);
   margin: 30px;
   margin-top: 10px;
   margin-bottom: 50px;
